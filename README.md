@@ -1,7 +1,7 @@
 ![alterednetspace](https://github.com/b-duncs/b-duncs/blob/main/alterednetscape-01.png)
 
 <p align="center">
-<a href="mailto: baylee.duncan@holbertonschool.com"><img src="https://github.com/b-duncs/b-duncs/blob/main/animatedemail.gif" alt="Email Link" style="width:100px;height:100px;"></a>
+<a href="mailto: baylee@bowencreative.org"><img src="https://github.com/b-duncs/b-duncs/blob/main/animatedemail.gif" alt="Email Link" style="width:100px;height:100px;"></a>
 </p>
 
 <!---
